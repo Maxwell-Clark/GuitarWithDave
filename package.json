@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@nuxtjs/google-fonts": "^2.0.0",
+    "@pinia/nuxt": "^0.4.6",
+    "@vuestic/nuxt": "^1.0.9",
+    "pinia": "^2.0.27"
+  }
+}
